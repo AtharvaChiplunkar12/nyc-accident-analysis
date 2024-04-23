@@ -1,4 +1,3 @@
-```markdown
 # Data Mining Project Report - Vaibhav Atharva
 
 ## Section I - Data Preparation Discussion
