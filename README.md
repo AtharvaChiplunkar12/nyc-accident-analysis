@@ -1,4 +1,4 @@
-# Data Mining Project Report - Vaibhav Atharva
+# NYC Accident Analysis
 
 ## Section I - Data Preparation Discussion
 
