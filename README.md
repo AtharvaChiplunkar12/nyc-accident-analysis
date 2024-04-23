@@ -55,20 +55,22 @@ As you answer them, describe the process you used. Use data visualizations (prob
 Find the answers to the following seven questions:
 
 1. **For the two years given, figure out what has changed in the summer from one year to the next. Figure out how to visualize the difference, in some way.**
-    ![graph1](graphs/graph1.png)
+    
     Graph 1: Accidents Over the Considered Duration
+   ![graph1](graphs/graph1.png)
 
-2. **How was June of 2019 different then June of 2020? Figure out how to show or demonstrate the difference.**
+3. **How was June of 2019 different from June of 2020? Figure out how to show or demonstrate the difference.**
 
-    Difference in June 2019 and June 2020: -337 (there were 337 fewer persons injured in June 2020 compared to June 2019)
-    ![graph2](graphs/graph2.png)
-    Graph 2: Differences in Accidents by Month of June 19 vs June 20 and July 19 vs July 20
+    The difference in June 2019 and June 2020: -337 (there were 337 fewer persons injured in June 2020 compared to June 2019)
+    
+    Graph 2: Differences in Accidents by June 19 vs June 20 and July 19 vs July 20
+   ![graph2](graphs/graph2.png)
 
-3. **How was July of 2019 different then July of 2020? Figure out how to show or demonstrate the difference.**
+4. **How was July of 2019 different than July of 2020? Figure out how to show or demonstrate the difference.**
 
-    Difference in July 2019 and July 2020: -311 (there were 311 fewer persons injured in July 2020 compared to July 2019) See Graph 2 for seeing visualization of difference between July 2019 and July 2020
+    The difference in July 2019 and July 2020: -311 (there were 311 fewer persons injured in July 2020 compared to July 2019) See Graph 2 for seeing visualization of difference between July 2019 and July 2020
 
-4. **For the year of January 2019 to October of 2020, which 100 consecutive days had the most accidents?**
+5. **For the year of January 2019 to October 2020, which 100 consecutive days had the most accidents?**
 
     ```
     CRASH DATE
@@ -85,25 +87,28 @@ Find the answers to the following seven questions:
     2020-06-18 66.0
     ```
 
-5. **Which day of the week has the most accidents?**
+6. **Which day of the week has the most accidents?**
 
     Friday
-    ![graph3](graphs/graph3.png)
-
+   
     Graph 3: Distribution along with the histogram of persons injured
+   ![graph3](graphs/graph3.png)
 
-6. **Which hour of the day has the most accidents?**
+7. **Which hour of the day has the most accidents?**
 
     Hour of the day Most Accidents: 5 PM
+   
+    Graph 4: Accidents compared to an hour of the day
     ![graph4](graphs/graph4.png)
-    Graph 4: Accidents compared to hour of the day
+   
+    Graph 5: Combined accident graph of both years
     ![graph5](graphs/graph5.png)
-    Graph 5: Combined accident graph if both years
 
-7. **In the year 2020, which 12 days had the most accidents? Can you speculate about why this is?**
+8. **In the year 2020, which 12 days had the most accidents? Can you speculate about why this is?**
 
-    ![graph6](graphs/graph6.png)
+    
     Graph 6: 12 days with most accidents
+   ![graph6](graphs/graph6.png)
 
     Yes, we can speculate the data:
     - 12 Days with Most Accidents in 2020:
@@ -139,14 +144,18 @@ In our project, we utilized various Python libraries for data visualization, inc
 - **Matplotlib and Seaborn Plots:**
    - We employed Matplotlib and Seaborn for static plots and statistical visualizations.
    - Below are the Output Graphs for visualization of Data:
-        ![graph7](graphs/graph7.png)
+        
        - Graph 7: Most Common type of Crash
-       ![graph8](graphs/graph8.png)
+         ![graph7](graphs/graph7.png)
+      
        - Graph 8: Pair Plot Correlation Graph
-       ![map1](graphs/map1.png)
+          ![graph8](graphs/graph8.png)
+       
        - Map 1: Heat Map of Accidents
-       ![map1](graphs/map2.png)
+         ![map1](graphs/map1.png)
+       
        - Map 2: Clustering of Accidents
+         ![map1](graphs/map2.png)
 
 ## Section IV: Conclusion
 
